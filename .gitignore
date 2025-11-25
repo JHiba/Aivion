@@ -1,0 +1,20 @@
+# Ignore virtual environment
+aivenv/
+venv/
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Gradio cache
+.gradio/
+
+# Ignore OS files
+.DS_Store
+
+# Optional: Ignore your random test images at the root
+# (If you want to keep them, remove these lines)
+*.jpg
+*.jpeg
+*.png
