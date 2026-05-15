@@ -8,7 +8,7 @@ The platform is designed for scalability, separating the orchestration logic fro
 * **The Hub (`app1.py`):** The central orchestrator and Gradio UI. It handles user inputs and manages the Ad Strategist (Llama-3/Groq).
 * **Video Engine Spoke (`video2.py`):** Dedicated script for high-fidelity video generation using **CogVideoX**. Optimized for NVIDIA RTX A6000 (48GB VRAM).
 * **3D Engine Spoke (`trellis_worker.py`):** Specialized worker for generating 3D assets using the **TRELLIS** framework.
-![Aivion System Architecture](aivion_architecture.png)
+
 ## 🚀 Key Features
 - **AI Ad Strategist:** Generates data-driven marketing copy and engagement plans.
 - **Cinematic Video Generation:** Produces high-resolution product videos from text prompts.
