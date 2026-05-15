@@ -41,6 +41,8 @@ Run the Hub:
 python app1.py
 
 ## 📺 Live Demo
-[![Aivion Demo Video]([https://drive.google.com/file/d/1lHQ8OIkOPmaD1ycq5ogGNijHDPm67Hh4/view?usp=sharing])
+Click the badge below to watch the Aivion platform in action, featuring the orchestrated video generation and 3D vision pipeline.
+
+[![Watch Demo](https://img.shields.io/badge/Watch-Live_Demo-red?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1lHQ8OIkOPmaD1ycq5ogGNijHDPm67Hh4/view?usp=sharing)
 Developed by H&R — Focused on scalable AI Architecture.
 
