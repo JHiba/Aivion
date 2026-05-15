@@ -13,6 +13,9 @@ The platform is designed for scalability, separating the orchestration logic fro
 - **AI Ad Strategist:** Generates data-driven marketing copy and engagement plans.
 - **Cinematic Video Generation:** Produces high-resolution product videos from text prompts.
 - **3D Asset Creation:** Transforms concepts into 3D models for immersive commerce.
+- The 3D engine requires the TRELLIS framework:
+1. Clone the TRELLIS repository.
+2. Follow the TRELLIS installation guide to set up the environment.
 - **VRAM Optimization:** Intelligent memory management to run large-scale models on a single GPU.
 
 ## 🛠️ Tech Stack
@@ -36,5 +39,8 @@ export GEMINI_API_KEY="your_key"
 
 Run the Hub:
 python app1.py
+
+## 📺 Live Demo
+[![Aivion Demo Video]([https://drive.google.com/file/d/1lHQ8OIkOPmaD1ycq5ogGNijHDPm67Hh4/view?usp=sharing])
 Developed by H&R — Focused on scalable AI Architecture.
 
