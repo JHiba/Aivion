@@ -1,0 +1,24 @@
+# Ignore massive AI models
+models/
+checkpoint/
+THUDM/
+*weights*
+*.pth
+*.bin
+*.safetensors
+*.pt
+
+# Ignore system/temp files
+__pycache__/
+aivion-video/
+temp_cache/
+/tmp/
+.env
+
+# Ignore outputs
+outputs/
+*.mp4
+*.glb
+aivion-env/
+app.py
+chatbot.py
